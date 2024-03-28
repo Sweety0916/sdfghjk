@@ -1,0 +1,27 @@
+S No.,Name,Car Collection,Gender,Price,Year,Kilometer,Fuel Type,Transmission,Location,Color,Owner,Seller Type,Engine,Max Power,Max Torque,Drivetrain,Length,Width,Height,Seating Capacity,Fuel Tank Capacity,
+1,Sweety,Honda,F,505000,2017,87150,Petrol,Manual,Pune,Grey,First,Corporate,1198 cc,87 bhp @ 6000 rpm,109 Nm @ 4500 rpm,FWD,3990,1680,1505,5,35,4 to 6
+2,Amisha,Maruti Suzuki,F,450000,2014,75000,Diesel,Manual,Ludhiana,White,Second,Individual,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD,3995,1695,1555,5,42,5 to 6
+3,Avinash,Hyundai,M,220000,2011,67000,Petrol,Manual,Lucknow,Maroon,First,Individual,1197 cc,79 bhp @ 6000 rpm,112.7619 Nm @ 4000 rpm,FWD,3585,1595,1550,5,35,4 to 6
+4,Ankit,Toyota,M,799000,2019,37500,Petrol,Manual,Mangalore,Red,First,Individual,1197 cc,82 bhp @ 6000 rpm,113 Nm @ 4200 rpm,FWD,3995,1745,1510,5,37,4 to 6
+5,Anup,Toyota,M,1950000,2018,69000,Diesel,Manual,Mumbai,Grey,First,Individual,2393 cc,148 bhp @ 3400 rpm,343 Nm @ 1400 rpm,RWD,4735,1830,1795,7,55,4 to 6
+6,Nisha,Maruti Suzuki,F,675000,2017,73315,Petrol,Manual,Pune,Grey,First,Individual,1373 cc,91 bhp @ 6000 rpm,130 Nm @ 4000 rpm,FWD,4490,1730,1485,5,43,9 to 6
+7,Pintu,Mercedes-Benz,M,1898999,2015,47000,Petrol,Automatic,Mumbai,White,Second,Individual,1991 cc,181 bhp @ 5500 rpm,300 Nm @ 1200 rpm,FWD,4630,1777,1432,5,43,4 to 6
+8,Ankita,BMW,F,2650000,2017,75000,Diesel,Automatic,Coimbatore,White,Second,Individual,1995 cc,188 bhp @ 4000 rpm,400 Nm @ 1750 rpm,AWD,4439,1821,1612,5,51,4 to 6
+9,Swati,Skoda,F,1390000,2017,56000,Petrol,Automatic,Mumbai,White,First,Individual,1798 cc,177 bhp @ 5100 rpm,250 Nm @ 1250 rpm,FWD,4670,1814,1476,5,50,4 to 6
+10,Anmol,Nissan,F,575000,2015,85000,Diesel,Manual,Mumbai,White,First,Individual,1461 cc,84 bhp @ 3750 rpm,200 Nm @ 1900 rpm,FWD,4331,1822,1671,5,50,13 to 6
+12,Ram,Hyundai,M,591000,2017,20281,Petrol,Manual,Mumbai,Red,First,Individual,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD,3985,1734,1505,5,45,4 to 6
+13,Mohan,Renault,M,459999,2018,22541,Petrol,Manual,Bangalore,Grey,First,Corporate,999 cc,67 bhp @ 5500 rpm,91 Nm @ 4250 rpm,FWD,3679,1579,1478,5,28,4 to 6
+14,Akash,Maruti Suzuki,M,1075000,2019,30672,Petrol,Automatic,Bangalore,Blue,First,Corporate,1462 cc,103 bhp @ 6000 rpm,138 Nm @ 4400 rpm,FWD,4490,1730,1485,5,43,4 to 6
+15,Khushi,Tata,F,1695000,2019,20856,Diesel,Manual,Bangalore,Orange,First,Corporate,1956 cc,138 bhp @ 3750 rpm,350 Nm @ 1750 rpm,FWD,4598,1894,1706,5,50,4 to 6
+16,Vidushi,Volkswagen,F,944999,2017,41417,Petrol,Automatic,Bangalore,Grey,First,Individual,1197 cc,103 bhp @ 5000 rpm,175 Nm @ 1500 rpm,FWD,3971,1682,1469,5,45,4 to 6
+17,Akshay,Maruti Suzuki,M,569000,2016,11471,Petrol,Automatic,Bangalore,Red,First,Individual,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD,3695,1600,1560,5,35,4 to 6
+18,Subhi,Maruti Suzuki,F,449000,2019,3583,Petrol,Manual,Bangalore,Grey,First,Individual,796 cc,47 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD,3445,1515,1475,5,35,20 to 6
+19,Geet,Maruti Suzuki,F,894999,2018,21365,Petrol,Automatic,Bangalore,Grey,First,Individual,1197 cc,82 bhp @ 6000 rpm,113 Nm @ 4200 rpm,FWD,3995,1745,1510,5,37,4  to 6
+20,Pankaj,Maruti Suzuki,M,699000,2020,30777,Petrol,Automatic,Bangalore,White,First,Individual,1197 cc,82 bhp @ 6000 rpm,113 Nm @ 4200 rpm,FWD,3655,1620,1675,5,32,4 to 6
+,,,,Maximum,,,,,,,,,,,,,,,,,,
+,,,,2650000,,MAXIMUM,,,,,,,Maximum,,,,,,,,Minimum,
+,,,,Minimum,,87150,,,,,,,0,,,,,,,,28,
+,,,,220000,,MINIMUM,,,,,,,Minimum,,,,,,,,Maximum,
+,,,,Average,,3583,,,,,,,0,,,,,,,,55,
+,,,,973210.3158,,AVERAGE,,,,,,,,,,,,,,,Average,
+,,,,,,46048.84211,,,,,,,,,,,,,,,41.63157895,
